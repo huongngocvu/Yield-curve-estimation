@@ -10,6 +10,6 @@ The RIC codes of these yields are: NZGOV3MZ=R, NZGOV6MZ=R, NZGOV1YZ=R, NZGOV2YZ=
 
 To create Figure 5: Run factor_estimation_Github.m
 
-The estimated factors are stored in the matrix beta.
+The estimated factors are stored in estimated_factors.mat
 
 The codes in DieboldLiEstimation.m are based on Nyholm, K. (2020). A Practitioner's Guide to Discrete-time Yield Curve Modelling: With Empirical Illustrations and MATLAB Examples. Cambridge University Press.
