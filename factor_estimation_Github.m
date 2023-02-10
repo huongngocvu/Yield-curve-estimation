@@ -44,3 +44,4 @@ legend('Level factor','Slope factor','Curvature factor');
 xlabel('Time'); ylabel('Factors');
 set(gca,'fontsize',12);
 
+save estimated_factors dates beta
