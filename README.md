@@ -12,6 +12,6 @@ The raw data cannot be uploaded because the copyright belongs to Refinitiv.
 
 To create Figure 5: Run factor_estimation_Github.m
 
-The estimated factors are stored in estimated_factors.mat
+The estimated factors are stored in estimated_factors (Date, beta_1, beta_2, beta_3, respectively).
 
 The codes in DieboldLiEstimation.m are based on Nyholm, K. (2020). A Practitioner's Guide to Discrete-time Yield Curve Modelling: With Empirical Illustrations and MATLAB Examples. Cambridge University Press.
