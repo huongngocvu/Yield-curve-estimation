@@ -7,6 +7,8 @@ To collect data, sign in your Refinitiv Eikon account, download New Zealand zero
 
 The RIC codes of these yields are: NZGOV3MZ=R, NZGOV6MZ=R, NZGOV1YZ=R, NZGOV2YZ=R, NZGOV3YZ=R, NZGOV4YZ=R, NZGOV5YZ=R, NZGOV6YZ=R, NZGOV7YZ=R, NZGOV8YZ=R, NZGOV9YZ=R, NZGOV10YZ=R
 
+The raw data cannot be uploaded because the copyright belongs to Refinitiv.
+
 
 To create Figure 5: Run factor_estimation_Github.m
 
